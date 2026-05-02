@@ -11,7 +11,7 @@ Hands-on experience with Azure Virtual Machines, osTicket deployment, troublesho
 
 ### 🎫 osTicket Help Desk Portfolio Project
 
-<a href="https://github.com/wongbianca/osticket-helpdesk-project">osTicket Help Desk Project</a>
+<a href="https://github.com/wongbianca/osTicket-helpdesk-project">osTicket Help Desk Project</a>
 
 This project demonstrates:
 
